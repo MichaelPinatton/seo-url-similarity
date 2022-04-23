@@ -38,8 +38,9 @@ with st.expander("🛠️ -- How to use the app?", expanded=False):
 with st.expander("🎥 -- Demo", expanded=False):
     st.markdown("")
     st.markdown(
-            "Watch the demo here : [DEMO URL](https://www.loom.com/share/f7c16e67ff6d44388c8d9aef111c9b2a)[![this is an image link](https://i.imgur.com/iIOA6kU.png)](https://www.streamlit.io/) "
+            "Watch the demo here : [DEMO URL](https://www.loom.com/share/f7c16e67ff6d44388c8d9aef111c9b2a)"
         )
+    st.markdown("[![Demo link](https://github.com/MichaelPinatton/seo-url-similarity/blob/main/demo.png)](https://www.loom.com/share/f7c16e67ff6d44388c8d9aef111c9b2a)")
     st.markdown("")
 
 #upload files
