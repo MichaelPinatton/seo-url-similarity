@@ -40,7 +40,7 @@ with st.expander("🎥 -- Demo", expanded=False):
     st.markdown(
             "Watch the demo here : [DEMO URL](https://www.loom.com/share/f7c16e67ff6d44388c8d9aef111c9b2a)"
         )
-    st.markdown("[![Demo link](https://github.com/MichaelPinatton/seo-url-similarity/blob/main/demo.png)](https://www.loom.com/share/f7c16e67ff6d44388c8d9aef111c9b2a)")
+    st.markdown("[![Demo link](https://github.com/MichaelPinatton/seo-url-similarity/blob/main/demo.png?raw=true)](https://www.loom.com/share/f7c16e67ff6d44388c8d9aef111c9b2a)")
     st.markdown("")
 
 #upload files
